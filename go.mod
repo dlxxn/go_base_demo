@@ -11,6 +11,7 @@ require (
 )
 
 require (
+	github.com/dropbox/godropbox v0.0.0-20200228041828-52ad444d3502 // indirect
 	github.com/go-logr/logr v1.2.0 // indirect
 	github.com/jinzhu/inflection v1.0.0 // indirect
 	k8s.io/klog v1.0.0 // indirect
